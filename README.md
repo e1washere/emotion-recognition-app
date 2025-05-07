@@ -33,3 +33,8 @@ Each dataset was used to train two models (TensorFlow + PyTorch). A two-phase tr
 cd Backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+
+## 📸 Screenshots
+
+### Emotion Recognition 
+![Video](screenshots/video_recognition.png)
