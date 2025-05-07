@@ -2,6 +2,11 @@
 
 A cross-platform desktop app that uses deep learning to recognize emotions from facial images or video using 8 models (TensorFlow + PyTorch). Developed with React + Electron + FastAPI.
 
+## 📸 Screenshots
+
+### Emotion Recognition 
+![Video](screenshots/video_recognition.png)
+
 ## 👨‍💻 Tech Stack
 
 - Frontend: ReactJS, Electron, FaceAPI.js
@@ -33,8 +38,3 @@ Each dataset was used to train two models (TensorFlow + PyTorch). A two-phase tr
 cd Backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload
-
-## 📸 Screenshots
-
-### Emotion Recognition 
-![Video](screenshots/video_recognition.png)
