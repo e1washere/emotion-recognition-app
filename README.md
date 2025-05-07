@@ -4,8 +4,8 @@ A cross-platform desktop app that uses deep learning to recognize emotions from 
 
 ## 📸 Screenshots
 
-### Emotion Recognition 
-![Video](screenshots/video_recognition.png)
+### Video Upload Recognition
+![Video Recognition](screenshots/video_recognition.png)
 
 ## 👨‍💻 Tech Stack
 
