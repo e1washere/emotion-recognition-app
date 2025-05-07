@@ -31,6 +31,19 @@ A cross-platform desktop app that uses deep learning to recognize emotions from 
 
 Each dataset was used to train two models (TensorFlow + PyTorch). A two-phase transfer learning strategy was used with VGG16 as the base model.
 
+## 📊 Model Results
+
+| Dataset  | Framework  | Accuracy | F1 Score |
+|----------|------------|----------|----------|
+| KDEF     | TensorFlow | 92%      | 0.92     |
+| KDEF     | PyTorch    | 91%      | 0.91     |
+| NHFI     | TensorFlow | 78%      | 0.76     |
+| NHFI     | PyTorch    | 72%      | 0.71     |
+| FER2013  | TensorFlow | 67%      | 0.65     |
+| FER2013  | PyTorch    | 66%      | 0.63     |
+| Mixed    | TensorFlow | 70%      | 0.70     |
+| Mixed    | PyTorch    | 68%      | 0.68     |
+
 ## 🚀 How to Run It
 
 ### Backend
