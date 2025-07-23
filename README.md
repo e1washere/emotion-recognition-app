@@ -1,5 +1,12 @@
 # Emotion Recognition App 😄😢😠
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+[![CI](https://img.shields.io/github/workflow/status/e1washere/emotion-recognition-app/ci?label=ci)](https://github.com/e1washere/emotion-recognition-app/actions)
+[![Coverage Status](https://coveralls.io/repos/github/e1washere/emotion-recognition-app/badge.svg?branch=main)](https://coveralls.io/github/e1washere/emotion-recognition-app?branch=main)
+[![Documentation](https://img.shields.io/badge/Docs-Stable-blue.svg)](https://github.com/e1washere/emotion-recognition-app/wiki)
+![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/e1washere/emotion-recognition-app/badge)](https://securityscorecards.dev/viewer/?uri=github.com/e1washere/emotion-recognition-app)
+
 A cross-platform desktop app that uses deep learning to recognize emotions from facial images or video using 8 models (TensorFlow + PyTorch). Developed with React + Electron + FastAPI.
 
 ## 📸 Screenshots
